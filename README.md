@@ -21,6 +21,7 @@ Configuration Changes:
 
 * Create new user 'grader'
 * Give the 'grader' user permission to sudo
+* Give permission to login for 'grader' user through key pairs
 * Update packages throug sudo apt-get update & sudo apt-get upgrade
 * Changed SSH port to 2200 through the configuration file
 * Configured UFW as instructed in the Project Details and enabled it
