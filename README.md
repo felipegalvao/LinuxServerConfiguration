@@ -3,6 +3,7 @@
 Repository for the Linux Configuration Project for Udacity's Nanodegree
 
 IP Address: http://54.71.217.44/
+
 SSH Port: 2200
 
 Software Installed:
